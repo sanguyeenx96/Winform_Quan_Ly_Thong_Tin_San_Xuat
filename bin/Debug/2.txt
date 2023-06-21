@@ -1,0 +1,1 @@
+Data Source=CANON;User ID=sa;Password=123;Initial Catalog=QuanLyLichSuSanPham
